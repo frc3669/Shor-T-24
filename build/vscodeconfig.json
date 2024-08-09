@@ -1,0 +1,429 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2024\\roborio\\bin\\arm-frc2024-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2024\\roborio\\bin\\arm-frc2024-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d5177b0393c93cd552134c658d17c701\\transformed\\wpilibNewCommands-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a0d0a165223aef0b92f04a3858cceb82\\transformed\\REVLib-cpp-2024.2.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e764b459c3b88cabde0ee2f586f7d756\\transformed\\REVLib-driver-2024.2.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\b0c52fec5cea8923b6e9d27e7b0d0ba1\\transformed\\navx-frc-cpp-2024.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\7b1b790bf1adcc8869035608ca1e6da2\\transformed\\wpiapi-cpp-24.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\8c979b79820a5a94f601268db88f059f\\transformed\\tools-24.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\fd5a76b717a739efeecefa46c3e819e2\\transformed\\wpilibc-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9480fea93073f92d87cb7b839c819a5b\\transformed\\ntcore-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\288c69b8976e481b2504f08f12a1c8d6\\transformed\\hal-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\65e9c67d00517043685bd08f9e318114\\transformed\\wpimath-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9ad12de6ec88aef99681320b6eaba646\\transformed\\wpinet-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\78d6de001cc6634d8785e9e596c86abe\\transformed\\wpiutil-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\2fc8fba9bcbc2e1e578e4c1e3958e983\\transformed\\netcomm-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0a90bb9d9848a7ab72d3a9b0b24332a1\\transformed\\chipobject-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6fd5ca8ac13e09e217115c11a66d902d\\transformed\\visa-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\600b0ac0c386a5f26362d6b1665b4c9e\\transformed\\cameraserver-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\4cd9fe28305b23fd292f98cd8cd188ec\\transformed\\cscore-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0e44a254a1e57faef73118c9cfaeb7c4\\transformed\\apriltag-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\411a34f147b024fc996ab3c13aa3e5cd\\transformed\\opencv-cpp-4.8.0-2-headers\\",
+      "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d51df655d03163643780926efbb76273\\transformed\\wpilibNewCommands-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e6b70b3132976892ae0ed823aa30090c\\transformed\\navx-frc-cpp-2024.1.0-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\5898b6d6cb7ddbdfe8c4701eca9831a7\\transformed\\wpilibc-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\adc562fd08233b7d2e3d47a2de05b7d0\\transformed\\ntcore-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\bc0229bc3b3d91c79d0e24978ba4f18a\\transformed\\hal-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a4a2588c527f7f986480f34447beadf3\\transformed\\wpimath-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\870842f97649ce535056f3057ac04dad\\transformed\\wpinet-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e9aa0da5e391cd011ce14ef43b9e94df\\transformed\\wpiutil-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6789db163e19cdf4515a522762f31d70\\transformed\\cameraserver-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\367cc7303e7570d7b08f5fd43cb49993\\transformed\\cscore-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\025350d4265198e785406eb803326924\\transformed\\apriltag-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\abb26ec49adea2181f49e6906c7bb62f\\transformed\\opencv-cpp-4.8.0-2-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d51df655d03163643780926efbb76273\\transformed\\wpilibNewCommands-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e6b70b3132976892ae0ed823aa30090c\\transformed\\navx-frc-cpp-2024.1.0-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\5898b6d6cb7ddbdfe8c4701eca9831a7\\transformed\\wpilibc-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\adc562fd08233b7d2e3d47a2de05b7d0\\transformed\\ntcore-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\bc0229bc3b3d91c79d0e24978ba4f18a\\transformed\\hal-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a4a2588c527f7f986480f34447beadf3\\transformed\\wpimath-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\870842f97649ce535056f3057ac04dad\\transformed\\wpinet-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e9aa0da5e391cd011ce14ef43b9e94df\\transformed\\wpiutil-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6789db163e19cdf4515a522762f31d70\\transformed\\cameraserver-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\367cc7303e7570d7b08f5fd43cb49993\\transformed\\cscore-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\025350d4265198e785406eb803326924\\transformed\\apriltag-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\abb26ec49adea2181f49e6906c7bb62f\\transformed\\opencv-cpp-4.8.0-2-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d5177b0393c93cd552134c658d17c701\\transformed\\wpilibNewCommands-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a0d0a165223aef0b92f04a3858cceb82\\transformed\\REVLib-cpp-2024.2.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e764b459c3b88cabde0ee2f586f7d756\\transformed\\REVLib-driver-2024.2.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\b0c52fec5cea8923b6e9d27e7b0d0ba1\\transformed\\navx-frc-cpp-2024.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\7b1b790bf1adcc8869035608ca1e6da2\\transformed\\wpiapi-cpp-24.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\8c979b79820a5a94f601268db88f059f\\transformed\\tools-24.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\fd5a76b717a739efeecefa46c3e819e2\\transformed\\wpilibc-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9480fea93073f92d87cb7b839c819a5b\\transformed\\ntcore-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\288c69b8976e481b2504f08f12a1c8d6\\transformed\\hal-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\65e9c67d00517043685bd08f9e318114\\transformed\\wpimath-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9ad12de6ec88aef99681320b6eaba646\\transformed\\wpinet-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\78d6de001cc6634d8785e9e596c86abe\\transformed\\wpiutil-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\2fc8fba9bcbc2e1e578e4c1e3958e983\\transformed\\netcomm-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0a90bb9d9848a7ab72d3a9b0b24332a1\\transformed\\chipobject-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6fd5ca8ac13e09e217115c11a66d902d\\transformed\\visa-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\600b0ac0c386a5f26362d6b1665b4c9e\\transformed\\cameraserver-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\4cd9fe28305b23fd292f98cd8cd188ec\\transformed\\cscore-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0e44a254a1e57faef73118c9cfaeb7c4\\transformed\\apriltag-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\411a34f147b024fc996ab3c13aa3e5cd\\transformed\\opencv-cpp-4.8.0-2-headers\\",
+      "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\trent\\Shor-T-24\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++20",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-fPIC",
+              "-pthread",
+              "-Wno-error=deprecated-enum-enum-conversion",
+              "-Og",
+              "-g"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d5177b0393c93cd552134c658d17c701\\transformed\\wpilibNewCommands-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a0d0a165223aef0b92f04a3858cceb82\\transformed\\REVLib-cpp-2024.2.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e764b459c3b88cabde0ee2f586f7d756\\transformed\\REVLib-driver-2024.2.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\b0c52fec5cea8923b6e9d27e7b0d0ba1\\transformed\\navx-frc-cpp-2024.1.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\7b1b790bf1adcc8869035608ca1e6da2\\transformed\\wpiapi-cpp-24.1.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\8c979b79820a5a94f601268db88f059f\\transformed\\tools-24.1.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\fd5a76b717a739efeecefa46c3e819e2\\transformed\\wpilibc-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9480fea93073f92d87cb7b839c819a5b\\transformed\\ntcore-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\288c69b8976e481b2504f08f12a1c8d6\\transformed\\hal-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\65e9c67d00517043685bd08f9e318114\\transformed\\wpimath-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9ad12de6ec88aef99681320b6eaba646\\transformed\\wpinet-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\78d6de001cc6634d8785e9e596c86abe\\transformed\\wpiutil-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\2fc8fba9bcbc2e1e578e4c1e3958e983\\transformed\\netcomm-2024.2.1-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0a90bb9d9848a7ab72d3a9b0b24332a1\\transformed\\chipobject-2024.2.1-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6fd5ca8ac13e09e217115c11a66d902d\\transformed\\visa-2024.2.1-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\600b0ac0c386a5f26362d6b1665b4c9e\\transformed\\cameraserver-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\4cd9fe28305b23fd292f98cd8cd188ec\\transformed\\cscore-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0e44a254a1e57faef73118c9cfaeb7c4\\transformed\\apriltag-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\411a34f147b024fc996ab3c13aa3e5cd\\transformed\\opencv-cpp-4.8.0-2-headers\\",
+          "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\trent\\Shor-T-24\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2024\\roborio\\bin\\arm-frc2024-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2024\\roborio\\bin\\arm-frc2024-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d5177b0393c93cd552134c658d17c701\\transformed\\wpilibNewCommands-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a0d0a165223aef0b92f04a3858cceb82\\transformed\\REVLib-cpp-2024.2.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e764b459c3b88cabde0ee2f586f7d756\\transformed\\REVLib-driver-2024.2.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\b0c52fec5cea8923b6e9d27e7b0d0ba1\\transformed\\navx-frc-cpp-2024.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\7b1b790bf1adcc8869035608ca1e6da2\\transformed\\wpiapi-cpp-24.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\8c979b79820a5a94f601268db88f059f\\transformed\\tools-24.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\fd5a76b717a739efeecefa46c3e819e2\\transformed\\wpilibc-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9480fea93073f92d87cb7b839c819a5b\\transformed\\ntcore-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\288c69b8976e481b2504f08f12a1c8d6\\transformed\\hal-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\65e9c67d00517043685bd08f9e318114\\transformed\\wpimath-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9ad12de6ec88aef99681320b6eaba646\\transformed\\wpinet-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\78d6de001cc6634d8785e9e596c86abe\\transformed\\wpiutil-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\2fc8fba9bcbc2e1e578e4c1e3958e983\\transformed\\netcomm-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0a90bb9d9848a7ab72d3a9b0b24332a1\\transformed\\chipobject-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6fd5ca8ac13e09e217115c11a66d902d\\transformed\\visa-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\600b0ac0c386a5f26362d6b1665b4c9e\\transformed\\cameraserver-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\4cd9fe28305b23fd292f98cd8cd188ec\\transformed\\cscore-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0e44a254a1e57faef73118c9cfaeb7c4\\transformed\\apriltag-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\411a34f147b024fc996ab3c13aa3e5cd\\transformed\\opencv-cpp-4.8.0-2-headers\\",
+      "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d51df655d03163643780926efbb76273\\transformed\\wpilibNewCommands-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e6b70b3132976892ae0ed823aa30090c\\transformed\\navx-frc-cpp-2024.1.0-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\5898b6d6cb7ddbdfe8c4701eca9831a7\\transformed\\wpilibc-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\adc562fd08233b7d2e3d47a2de05b7d0\\transformed\\ntcore-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\bc0229bc3b3d91c79d0e24978ba4f18a\\transformed\\hal-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a4a2588c527f7f986480f34447beadf3\\transformed\\wpimath-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\870842f97649ce535056f3057ac04dad\\transformed\\wpinet-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e9aa0da5e391cd011ce14ef43b9e94df\\transformed\\wpiutil-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6789db163e19cdf4515a522762f31d70\\transformed\\cameraserver-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\367cc7303e7570d7b08f5fd43cb49993\\transformed\\cscore-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\025350d4265198e785406eb803326924\\transformed\\apriltag-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\abb26ec49adea2181f49e6906c7bb62f\\transformed\\opencv-cpp-4.8.0-2-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d51df655d03163643780926efbb76273\\transformed\\wpilibNewCommands-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e6b70b3132976892ae0ed823aa30090c\\transformed\\navx-frc-cpp-2024.1.0-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\5898b6d6cb7ddbdfe8c4701eca9831a7\\transformed\\wpilibc-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\adc562fd08233b7d2e3d47a2de05b7d0\\transformed\\ntcore-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\bc0229bc3b3d91c79d0e24978ba4f18a\\transformed\\hal-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a4a2588c527f7f986480f34447beadf3\\transformed\\wpimath-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\870842f97649ce535056f3057ac04dad\\transformed\\wpinet-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e9aa0da5e391cd011ce14ef43b9e94df\\transformed\\wpiutil-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6789db163e19cdf4515a522762f31d70\\transformed\\cameraserver-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\367cc7303e7570d7b08f5fd43cb49993\\transformed\\cscore-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\025350d4265198e785406eb803326924\\transformed\\apriltag-cpp-2024.3.2-sources\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\abb26ec49adea2181f49e6906c7bb62f\\transformed\\opencv-cpp-4.8.0-2-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d5177b0393c93cd552134c658d17c701\\transformed\\wpilibNewCommands-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a0d0a165223aef0b92f04a3858cceb82\\transformed\\REVLib-cpp-2024.2.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e764b459c3b88cabde0ee2f586f7d756\\transformed\\REVLib-driver-2024.2.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\b0c52fec5cea8923b6e9d27e7b0d0ba1\\transformed\\navx-frc-cpp-2024.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\7b1b790bf1adcc8869035608ca1e6da2\\transformed\\wpiapi-cpp-24.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\8c979b79820a5a94f601268db88f059f\\transformed\\tools-24.1.0-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\fd5a76b717a739efeecefa46c3e819e2\\transformed\\wpilibc-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9480fea93073f92d87cb7b839c819a5b\\transformed\\ntcore-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\288c69b8976e481b2504f08f12a1c8d6\\transformed\\hal-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\65e9c67d00517043685bd08f9e318114\\transformed\\wpimath-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9ad12de6ec88aef99681320b6eaba646\\transformed\\wpinet-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\78d6de001cc6634d8785e9e596c86abe\\transformed\\wpiutil-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\2fc8fba9bcbc2e1e578e4c1e3958e983\\transformed\\netcomm-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0a90bb9d9848a7ab72d3a9b0b24332a1\\transformed\\chipobject-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6fd5ca8ac13e09e217115c11a66d902d\\transformed\\visa-2024.2.1-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\600b0ac0c386a5f26362d6b1665b4c9e\\transformed\\cameraserver-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\4cd9fe28305b23fd292f98cd8cd188ec\\transformed\\cscore-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0e44a254a1e57faef73118c9cfaeb7c4\\transformed\\apriltag-cpp-2024.3.2-headers\\",
+      "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\411a34f147b024fc996ab3c13aa3e5cd\\transformed\\opencv-cpp-4.8.0-2-headers\\",
+      "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\trent\\Shor-T-24\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++20",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-fPIC",
+              "-pthread",
+              "-Wno-error=deprecated-enum-enum-conversion",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\d5177b0393c93cd552134c658d17c701\\transformed\\wpilibNewCommands-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\a0d0a165223aef0b92f04a3858cceb82\\transformed\\REVLib-cpp-2024.2.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\e764b459c3b88cabde0ee2f586f7d756\\transformed\\REVLib-driver-2024.2.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\b0c52fec5cea8923b6e9d27e7b0d0ba1\\transformed\\navx-frc-cpp-2024.1.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\7b1b790bf1adcc8869035608ca1e6da2\\transformed\\wpiapi-cpp-24.1.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\8c979b79820a5a94f601268db88f059f\\transformed\\tools-24.1.0-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\fd5a76b717a739efeecefa46c3e819e2\\transformed\\wpilibc-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9480fea93073f92d87cb7b839c819a5b\\transformed\\ntcore-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\288c69b8976e481b2504f08f12a1c8d6\\transformed\\hal-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\65e9c67d00517043685bd08f9e318114\\transformed\\wpimath-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\9ad12de6ec88aef99681320b6eaba646\\transformed\\wpinet-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\78d6de001cc6634d8785e9e596c86abe\\transformed\\wpiutil-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\2fc8fba9bcbc2e1e578e4c1e3958e983\\transformed\\netcomm-2024.2.1-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0a90bb9d9848a7ab72d3a9b0b24332a1\\transformed\\chipobject-2024.2.1-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\6fd5ca8ac13e09e217115c11a66d902d\\transformed\\visa-2024.2.1-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\600b0ac0c386a5f26362d6b1665b4c9e\\transformed\\cameraserver-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\4cd9fe28305b23fd292f98cd8cd188ec\\transformed\\cscore-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\0e44a254a1e57faef73118c9cfaeb7c4\\transformed\\apriltag-cpp-2024.3.2-headers\\",
+          "C:\\Users\\trent\\.gradle\\caches\\transforms-3\\411a34f147b024fc996ab3c13aa3e5cd\\transformed\\opencv-cpp-4.8.0-2-headers\\",
+          "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\trent\\Shor-T-24\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\trent\\Shor-T-24\\src\\main\\include\\"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]

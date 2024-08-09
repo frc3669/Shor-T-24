@@ -1,0 +1,24 @@
+See file:///C:/Users/trent/Shor-T-24/build/tmp/compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp: In member function 'virtual void Robot::TeleopPeriodic()':
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:80:16: warning: enumeration value 'CLIMBUP' not handled in switch [-Wswitch]
+   80 |         switch (teleopState) {
+      |                ^
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:80:16: warning: enumeration value 'CLIMBDOWN' not handled in switch [-Wswitch]
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:80:16: warning: enumeration value 'NUM_OF_STATES' not handled in switch [-Wswitch]
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:268:24: warning: enumeration value 'NOTEALIGN2' not handled in switch [-Wswitch]
+  268 |                 switch (teleopState) {
+      |                        ^
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:268:24: warning: enumeration value 'NOTEALIGN3' not handled in switch [-Wswitch]
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:268:24: warning: enumeration value 'AIMING' not handled in switch [-Wswitch]
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:268:24: warning: enumeration value 'CLIMBUP' not handled in switch [-Wswitch]
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:268:24: warning: enumeration value 'CLIMBDOWN' not handled in switch [-Wswitch]
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:268:24: warning: enumeration value 'NUM_OF_STATES' not handled in switch [-Wswitch]
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:234:25: warning: this statement may fall through [-Wimplicit-fallthrough=]
+  234 |                         if (timer.HasElapsed(0.65_s)) {
+      |                         ^~
+C:\Users\trent\Shor-T-24\src\main\cpp\Robot.cpp:237:17: note: here
+  237 |                 case TeleopState::DEFAULT:
+      |                 ^~~~
+
+Finished compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/trent/Shor-T-24/build/tmp/compileFrcUserProgramLinuxathenaReleaseExecutableFrcUserProgramCpp/output.txt.
